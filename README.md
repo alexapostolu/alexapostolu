@@ -1,3 +1,3 @@
 Hey, I'm Alex!
 
-Check out my [resume](https://github.com/alexapostolu/alexapostolu/blob/master/github_profile/AlexanderApostolu_Resume.pdf)
+Check out my ![resume](relative%20../github_profile/Alexander_Apostolu_Resume-1.png)
